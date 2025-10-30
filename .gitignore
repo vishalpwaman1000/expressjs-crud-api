@@ -51,7 +51,7 @@ dist/
 
 # Express/API specific
 /api/node_modules/
-# /api/.env
+/api/.env
 /api/dist/
 
 # Prisma
